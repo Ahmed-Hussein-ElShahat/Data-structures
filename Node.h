@@ -17,6 +17,7 @@ public:
 
     friend class LinkedList;
     friend class Stack;
+    friend class Queue;
 };
 
 
