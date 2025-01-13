@@ -16,6 +16,7 @@ public:
     void setNext(Node *next);
 
     friend class LinkedList;
+    friend class Stack;
 };
 
 
